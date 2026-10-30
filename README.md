@@ -18,3 +18,6 @@ It retrieves content from Genius using web scraping. Website content may be prot
 Users are responsible for ensuring that their use of this software complies with applicable laws, copyright restrictions, and the terms of the websites they access.
 
 This project is not affiliated with or endorsed by Genius. No copyrighted lyrics are included in this repository.
+### To-do
+- [ ] Create example project(s)
+- [ ] Make wiki/doc page to explain more information about this project.
