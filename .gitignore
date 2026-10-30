@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+genius_scrapper_debug_log.txt
+.venv/
+venv/
