@@ -4,8 +4,8 @@ Scrapes Genius Lyrics site for plain text lyrics
 
 
 ### Needed packages
-> requests
-> beautifulsoup4
+\> requests
+\> beautifulsoup4
 
 
 ### Important Notice
